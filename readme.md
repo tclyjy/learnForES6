@@ -26,4 +26,18 @@
  - 十二、标签模板 => *Path(./ExpansionOfString/12.js)*
  - 十三、String.raw() => *Path(./ExpansionOfString/13.js)*
  - 十四、模板字符串的限制 => *Path(./ExpansionOfString/14.js)*
-
+ * [**Value**](#4)
+ - 一、Number.isFinite(),Number.isNaN() => *Path(./Value/01.js)*
+ - 二、Number.parseInt(),Number.parseFloat() => *Path(./Value/02.js)*
+ - 三、Number.EPSILON(极小的常量) => *Path(./Value/02.js)*
+ - 四、安全整数和Number.isSafeInteger() => *Path(./Value/02.js)*
+ - 五、Math对象的扩展 => *Path(./Value/03.js)*
+ * [**Array**](#5)
+ - 一、Array.from() => *Path(./Array/01.js)*
+ - 二、Array.of() => *Path(./Array/02.js)*
+ - 三、数组实例的copyWithin() => *Path(./Array/03.js)*
+ - 四、数组实例的find()和findIndex() => *Path(./Array/04.js)*
+ - 五、数组实例的fill() => *Path(./Array/04.js)*
+ - 六、数组实例的entries(),key(),values() => *Path(./Array/05.js)*
+ - 七、数组实例的includes() => *Path(./Array/06.js)*
+ - 八、数组的空位 => *Path(./Array/07.js)*
